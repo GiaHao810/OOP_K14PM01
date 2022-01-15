@@ -76,7 +76,7 @@ public class Bank_NonStructured {
 
         //Customer: hanh dong thao len data của Customer
         
-
+        System.out.println("Hello World");
 
 
     }
