@@ -2,7 +2,7 @@
 *  created date: Jan 11, 2022
 *  author: cgm
 */
-package oo;
+package OOP;
 
 public class AccountTestDrive {
     public static void main(String[] args) {

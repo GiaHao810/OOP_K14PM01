@@ -2,7 +2,7 @@
 *  created date: Jan 13, 2022
 *  author: cgm
 */
-package oo;
+package OOP;
 
 public class BankTestDrive {
 
